@@ -1,5 +1,3 @@
-# Writed by @faststrong for @IRANGOBLIN_ir team
-
 import requests
 import argparse
 import time
@@ -119,7 +117,7 @@ def bruteforce_attack(target_url, combinations_file, delay=1):
         print(Fore.RED + "\n[X] No suspicious logins detected.")
 
 def main():
-    banner = pyfiglet.figlet_format("Goblin tool")
+    banner = pyfiglet.figlet_format("Burtforce tool")
     print(Fore.GREEN + banner)
     print(Fore.LIGHTCYAN_EX + ">> No Save File, No Mercy! DOM-based Zabbix checker <<\n")
 
