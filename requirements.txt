@@ -1,0 +1,6 @@
+random-user-agent==1.0.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.1
+colorama==0.4.6
+pyfiglet==1.0.2
