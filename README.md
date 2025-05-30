@@ -1,4 +1,4 @@
-# 🧠 Goblin Tool
+# 🧠 Zabbix Burtforce
 
 > Ethical Brute Force Combo Generator & Login Tester – for educational and authorized penetration testing only.
 
